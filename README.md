@@ -1,7 +1,4 @@
-# Halo semua! 
-Perkenalkan nama saya **Muhamad Ivan Fadillah**.\
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ivantendou/)ku ya.
  
 <p align="left">
 <a href="https://github.com/ivantendou">
